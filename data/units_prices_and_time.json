@@ -1,0 +1,455 @@
+{   
+    "_comment" : "Ground units",
+    "ausd" : {
+        "steel" : 9500,
+        "aluminium" : 3500,
+        "time" : 15,
+        "type" : "ground"
+    },
+    "cd75" : {
+        "steel" : 150000,
+        "aluminium" : 90000,
+        "time" : 45,
+        "type" : "ground"
+
+    },
+    "ammov1" : {
+        "steel" : 275000,
+        "aluminium" : 25000,
+        "time" : 55,
+        "type" : "ground"
+    },
+    "paal" : {
+        "steel" : 500000,
+        "aluminium" : 150000,
+        "time" : 60,
+        "type" : "ground"
+    },
+    "mark1" : {
+        "steel" : 450000,
+        "aluminium" : 95000,
+        "time" : 55,
+        "type" : "ground"
+
+    },
+    "saint" : {
+        "steel" : 190000,
+        "aluminium" : 75000,
+        "time" : 50,
+        "type" : "ground"
+    }, 
+    "austin" : {
+        "steel" : 290000,
+        "aluminium" : 20000,
+        "time" : 130,
+        "type" : "ground"
+    },
+    "bl8" : {
+        "steel" : 200000,
+        "aluminium" : 50000,
+        "time" : 150,
+        "type" : "ground"
+    },
+    "a7v" : {
+        "steel" : 950000,
+        "aluminium" : 390000,
+        "time" : 300,
+        "type" : "ground"
+    },
+    "mark5" : {
+        "steel" : 125000,
+        "aluminium" : 50000,
+        "time" : 150,
+        "type" : "ground"
+    },
+    "ft75" : {
+        "steel" : 325000,
+        "aluminium" : 75000,
+        "time" : 60,
+        "type" : "ground"
+    },
+    "mark8" : {
+        "steel" : 150000,
+        "aluminium" : 25000,
+        "time" : 90,
+        "type" : "ground"
+    },
+    "m1919" : {
+        "steel" : 250000,
+        "aluminium" : 19000,
+        "time" : 90,
+        "type" : "ground"
+    },
+    "vmm2" : {
+        "steel" : 55000,
+        "aluminium" : 9000,
+        "time" : 30,
+        "type" : "ground"
+    },
+    "cley" : {
+        "steel" : 25000,
+        "aluminium" : 1500,
+        "time" : 50,
+        "type" : "ground"
+    },
+    "t1" : {
+        "steel" : 35000,
+        "aluminium" : 5000,
+        "time" : 25,
+        "type" : "ground"
+    },
+    "gtrak" : {
+        "steel" : 490000,
+        "aluminium" : 190000,
+        "time" : 50,
+        "type" : "ground"
+    },
+    "ltrak" : {
+        "steel" : 90000,
+        "aluminium" : 25000,
+        "time" : 55,
+        "type" : "ground"
+    },
+    "m1931" : {
+        "steel" : 1600000,
+        "aluminium" : 800000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "t24" : {
+        "steel" : 90000,
+        "aluminium" : 15000,
+        "time" : 45,
+        "type" : "ground"
+    },
+    "t26" : {
+        "steel" : 29000,
+        "aluminium" : 7500,
+        "time" : 30,
+        "type" : "ground"
+    },
+    "m1" : {
+        "steel" : 35000,
+        "aluminium" : 10000,
+        "time" : 20,
+        "type" : "ground"
+    },
+    "nbf" : {
+        "steel" : 125000,
+        "aluminium" : 25000,
+        "time" : 180,
+        "type" : "ground"
+    },
+    "mp1" : {
+        "steel" : 750000,
+        "aluminium" : 250000,
+        "time" : 300,
+        "type" : "ground"
+    },
+    "bt7" : {
+        "steel" : 65000,
+        "aluminium" : 25000,
+        "time" : 55,
+        "type" : "ground"
+    },
+    "p3" : {
+        "steel" : 450000,
+        "aluminium" : 50000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "flak38" : {
+        "steel" : 25000,
+        "aluminium" : 5000,
+        "time" : 25,
+        "type" : "ground"
+    },
+    "p8" : {
+        "steel" : 750000,
+        "aluminium" : 100000,
+        "time" : 1800,
+        "type" : "ground"
+    },
+    "lancia" : {
+        "steel" : 290000,
+        "aluminium" : 135000,
+        "time" : 300,
+        "type" : "ground"
+    },
+    "bison" : {
+        "steel" : 250000,
+        "aluminium" : 90000,
+        "time" : 450,
+        "type" : "ground"
+    },
+    "mp40" : {
+        "steel" : 1500000,
+        "aluminium" : 700000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "cromw" : {
+        "steel" : 1150000,
+        "aluminium" : 350000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "sp2" : {
+        "steel" : 1550000,
+        "aluminium" : 250000,
+        "time" : 600,
+        "type" : "ground"
+    },
+    "kat" : {
+        "steel" : 1450000,
+        "aluminium" : 900000,
+        "time" : 300,
+        "type" : "ground"
+    },  
+    "m4" : {
+        "steel" : 350000,
+        "aluminium" : 50000,
+        "time" : 600,
+        "type" : "ground"
+    },
+    "leo" : {
+        "steel" : 690000,
+        "aluminium" : 190000,
+        "time" : 90,
+        "type" : "ground"
+    },
+    "breda" : {
+        "steel" : 450000,
+        "aluminium" : 350000,
+        "time" : 450,
+        "type" : "ground"
+    },
+    "wespe" : {
+        "steel" : 190000,
+        "aluminium" : 35000,
+        "time" : 155,
+        "type" : "ground"
+    },
+    "gepard" : {
+        "steel" : 75000,
+        "aluminium" : 15000,
+        "time" : 60,
+        "type" : "ground"
+    },
+    "is1" : {
+        "steel" : 950000,
+        "aluminium" : 150000,
+        "time" : 2500,
+        "type" : "ground"
+    },
+    "maul" : {  
+        "steel" : 975000,
+        "aluminium" : 450000,
+        "time" : 600,
+        "type" : "ground"
+    },
+    "nhorn" : {
+        "steel" : 400000,
+        "aluminium" : 80000,
+        "time" : 700,
+        "type" : "ground"
+    },
+    "ISU152" : {
+        "steel" : 1300000,
+        "aluminium" : 350000,
+        "time" : 450,
+        "type" : "ground"
+    },
+    "ktig" : {
+        "steel" : 1500000,
+        "aluminium" : 700000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "jp5" : {
+        "steel" : 1900000,
+        "aluminium" : 100000,
+        "time" : 7200,
+        "type" : "ground"
+    },
+    "m19" : {
+        "steel" : 1975000,
+        "aluminium" : 452000,
+        "time" : 300,
+        "type" : "ground"
+    },
+    "cent"  : {
+        "steel" : 1950000,
+        "aluminium" : 900000,
+        "time" : 3600,
+        "type" : "ground"
+    },
+    "m47" : {
+        "steel" : 1250000,
+        "aluminium" : 950000,
+        "time" : 3600,
+        "type" : "ground"
+    },
+    "m50" : {
+        "steel" : 1900000,
+        "aluminium" : 550000,
+        "time" : 3600,
+        "type" : "ground"
+    },
+    "vmk1" : {
+        "steel" : 1950000,
+        "aluminium" : 150000,
+        "time" : 9000,
+        "type" : "ground"
+    },
+    "strela" : {
+        "steel" : 950000,
+        "aluminium" : 800000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "m730" : {
+        "steel" : 2500000,
+        "aluminium" : 1500000,
+        "time" : 7200,
+        "type" : "ground"
+    },
+    "srv" : {
+        "steel" : 750000,
+        "aluminium" : 90000,
+        "time" : 12000,
+        "type" : "ground"
+    },
+    "25cm" : {
+        "steel" : 1490000,
+        "aluminium" : 715000,
+        "time" : 300,
+        "type" : "ground"
+    },
+    "fiat2000" : {
+        "steel" : 1250000,
+        "aluminium" : 550000,
+        "time" : 300,
+        "type" : "ground"
+    },
+    "gpf" : {
+        "steel" : 1500000,
+        "aluminium" : 700000,
+        "time" : 1200,
+        "type" : "ground"
+    },
+    "kwag" : {
+        "steel" : 1550000,
+        "aluminium" : 650000,
+        "time" : 450,
+        "type" : "ground"
+    },
+    "char2c" : {
+        "steel" : 1275000,
+        "aluminium" : 375000,
+        "time" : 1800,
+        "type" : "ground"
+    },
+    "t35" : {
+        "steel" : 1300000,
+        "aluminium" : 600000,
+        "time" : 600,
+        "type" : "ground"
+    },
+    "cb1" : {
+        "steel" : 950000,
+        "aluminium" : 450000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "karl" : {
+        "steel" : 29000000,
+        "aluminium" : 19000000,
+        "time" : 36000,
+        "type" : "ground"
+    },
+    "kw2" : {
+        "steel" : 1750000,
+        "aluminium" : 750000,
+        "time" : 1800,
+        "type" : "ground"
+    },  
+    "tiger" : {
+        "steel" : 950000,
+        "aluminium" : 250000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "ele"   : {
+        "steel" : 7900000,
+        "aluminium" : 2900000,
+        "time" : 3600,
+        "type" : "ground"
+    },
+    "brum" : {
+        "steel" : 1900000,
+        "aluminium" : 250000,
+        "time" : 1800,
+        "type" : "ground"
+    },
+    "sturm" : {
+        "steel" : 9900000,
+        "aluminium" : 3900000,
+        "time" : 18000,
+        "type" : "ground"
+    },
+    "maus" : {
+        "steel" : 15500000,
+        "aluminium" : 3500000,
+        "time" : 24000,
+        "type" : "ground"
+    },
+    "t3485" : {
+        "steel" : 1750000,
+        "aluminium" : 750000,
+        "time" : 3000,
+        "type" : "ground"
+    },
+    "t34" : {
+        "steel" : 1750000,
+        "aluminium" : 750000,
+        "time" : 900,
+        "type" : "ground"
+    },
+    "fp6" : {
+        "steel" : 3250000,
+        "aluminium" : 1500000,
+        "time" : 3600,
+        "type" : "ground"
+    },
+    "skink" : {
+        "steel" : 2500000,
+        "aluminium" : 1750000,
+        "time" : 250,
+        "type" : "ground"
+    },
+    "t28" : {
+        "steel" : 39000000,
+        "aluminium" : 29000000,
+        "time" : 18000,
+        "type" : "ground"
+    },
+    "is3" : {
+        "steel" : 1400000,
+        "aluminium" : 300000,
+        "time" : 1800,
+        "type" : "ground"
+    },
+    "t55" : {
+        "steel" : 3900000,
+        "aluminium" : 1500000,
+        "time" : 9000,
+        "type" : "ground"
+    },
+    "leo1a1" : {
+        "steel" : 3900000,
+        "aluminium" : 850000,
+        "time" : 15000,
+        "type" : "ground"
+    }
+}
