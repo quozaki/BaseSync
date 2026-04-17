@@ -185,7 +185,7 @@
     "mp4" : {
         "steel" : 1500000,
         "aluminium" : 700000,
-        "time" : 900,
+        "time" : 540,
         "type" : "ground"
     },
     "cromw" : {

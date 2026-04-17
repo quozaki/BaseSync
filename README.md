@@ -1,7 +1,7 @@
 BaseSync / Strategic Production Engine 
 
 Description:
-BaseSync (Strategic Production Engine, SPE) is a Discord bot designed for strategycombat.com players that helps optimize base production and unit synchronization. It calculates how many bases can produce a specific unit simultaneously and provides staggered production schedules to match resource regeneration, allowing players to maximize efficiency without overcomplicating calculations.
+BaseSync (Strategic Production Engine, SPE) is a Discord bot designed for Strategy Combat players that helps optimize base production and unit synchronization. It calculates how many bases can produce a specific unit simultaneously and provides staggered production schedules to match resource regeneration, allowing players to maximize efficiency without overcomplicating calculations.
 
 Key Features:
   Base Capacity Calculator: See how many bases can produce a unit at once.
