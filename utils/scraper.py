@@ -280,7 +280,7 @@ def parse_alliance_detail(html: str) -> dict:
                 elif "leader" in key and "co-leader" not in key:
                     result["leader"] = val
                 elif "co-leader" in key or "co-lead" in key:
-                    # Could be multi-row
+                    # Each co-leader has its own <tr> — just append the cell value
                     if val:
                         result["co_leaders"].append(val)
         else:
@@ -301,16 +301,29 @@ def parse_alliance_detail(html: str) -> dict:
                 rank_text   = cells[4].get_text(strip=True).replace(".", "").replace("'", "")
                 role        = cells[7].get_text(strip=True) if len(cells) > 7 else ""
 
+                rank = int(rank_text) if rank_text.isdigit() else 0
+                if rank == 0:
+                    continue  # skip ghost/header rows
                 result["members"].append({
                     "name": name,
                     "points": int(points_text) if points_text.isdigit() else 0,
                     "bases": int(bases_text) if bases_text.isdigit() else 0,
-                    "rank": int(rank_text) if rank_text.isdigit() else 0,
+                    "rank": rank,
                     "role": role,
                 })
 
     # Sort members by rank
     result["members"].sort(key=lambda m: m["rank"] if m["rank"] > 0 else 99999)
+
+    # Extract leader and co-leaders from the members list (more reliable than info table)
+    result["co_leaders"] = [
+        m["name"] for m in result["members"] if "co" in m["role"].lower()
+    ]
+    if not result["leader"]:
+        leaders = [m["name"] for m in result["members"] if m["role"].lower() == "leader"]
+        if leaders:
+            result["leader"] = leaders[0]
+
     return result
 
 
